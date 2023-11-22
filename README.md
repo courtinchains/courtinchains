@@ -4,7 +4,7 @@ My personal interests include horror media and rock n roll (obviously) profesion
 
 I'm currently a computer science student so I have some knowledge of Java and Python I am currently learning JavaScript and hoping to learn more after that.
 
-I can be reached on here or on instagram @death2court :)
+
 
 
 <!---
