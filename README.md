@@ -1,8 +1,20 @@
-Hi I'm Courtney (@courtinchains) I'm 23 and from Cape Town, South Africa.
+Hi there, I'm Courtney 👾
+I'm a newly graduated computer science and physics major still trying to find my place in the world 🌍
 
-My personal interests include horror media and rock n roll (obviously) profesionally I am interested in application and game development. 
+🌼What I know right now: 
+-> Java 
+-> Python 
+-> Javascript
+-> CSS
+-> HTML
 
-I'm currently a computer science student so I have some knowledge of Java and Python I am currently learning JavaScript and hoping to learn more after that.
+🌼What I am currently learning:
+-> C language
+-> React
+
+🌼What are my current interests: 
+-> Front End development 
+-> Game development 
 
 
 
