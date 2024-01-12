@@ -4,6 +4,7 @@ I'm a newly graduated computer science and physics major still trying to find my
 🌼What I know right now: 
 -> Java 
 -> Python 
+-> SQL
 -> Javascript
 -> CSS
 -> HTML
