@@ -15,8 +15,8 @@ I'm a newly graduated computer science and physics major still trying to find my
 
 🌼What are my current interests: 
 -> Data Analysis
--> Front End development 
--> Game development 
+-> Cloud Computing 
+
 
 
 
