@@ -13,9 +13,6 @@ I'm a newly graduated computer science and physics major still trying to find my
 -> C language
 -> React
 
-🌼What are my current interests: 
--> Data Analysis
--> Cloud Computing 
 
 
 
