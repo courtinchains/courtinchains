@@ -1,17 +1,8 @@
 Hi there, I'm Courtney 👾
-I'm a newly graduated computer science and physics major still trying to find my place in the world 🌍
+I'm a Junior Full Stack Developer by day and Nuclear Physicist by night; Bruce Wayne could never! 
 
-🌼What I know right now: 
--> Java 
--> Python 
--> SQL
--> Javascript
--> CSS
--> HTML
+🌼 My main interests are in Machine Learning and Data Engineering but any problem I can get my hands into will suffice
 
-🌼What I am currently learning:
--> C language
--> React
 
 
 
